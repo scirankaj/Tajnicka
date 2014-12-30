@@ -26,7 +26,7 @@ public class Main {
          * zadaneho finalneho slova
          */
         JButton newt = new JButton("Generate Tajnicka");
-        newt.setPreferredSize(new Dimension(250,100));
+        newt.setPreferredSize(new Dimension(300,100));
         newt.setFont(newt.getFont().deriveFont(18.0f));
         newt.setFocusPainted(false);
         newt.setBackground(Color.GRAY);
@@ -46,7 +46,7 @@ public class Main {
          * Tlacidlo typu JButton pre vygenerovanie vlastnej tajnicky.
          */
         JButton news = new JButton("Generate custom Tajnicka"); 
-        news.setPreferredSize(new Dimension(250,100));
+        news.setPreferredSize(new Dimension(300,100));
         news.setFont(news.getFont().deriveFont(18.0f));
         news.setFocusPainted(false);
         news.setBackground(Color.GRAY);
@@ -63,7 +63,7 @@ public class Main {
         });
         
         JButton opt = new JButton("About");
-        opt.setPreferredSize(new Dimension(250,100));
+        opt.setPreferredSize(new Dimension(300,100));
         opt.setFont(opt.getFont().deriveFont(18.0f));
         opt.setBackground(Color.GRAY);
         opt.addActionListener(new ActionListener() {
@@ -80,7 +80,7 @@ public class Main {
          * Tlacidlo typu JButton pre ukoncenie aplikacie.
          */
         JButton esc = new JButton("Exit");
-        esc.setPreferredSize(new Dimension(250,100));
+        esc.setPreferredSize(new Dimension(300,100));
         esc.setFont(esc.getFont().deriveFont(18.0f));
         esc.setBackground(Color.GRAY);
         esc.addActionListener(new ActionListener() {

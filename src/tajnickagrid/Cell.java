@@ -1,6 +1,7 @@
 package tajnickagrid;
 
 import java.awt.Color;
+import java.awt.Font;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
@@ -27,11 +28,16 @@ public class Cell extends JTextField implements MouseListener{
      * Je inicializovana na hodnotu 1.
      */
     public int limit =1;
-    
+    /**
+     * Premenna font1 typu Font urcuje vlastnosti a typ pisma v bunke.
+     */
+    Font font1 = new Font("Arial",Font.BOLD, 35);
     
     
     public Cell(int limit) throws IOException{
         super();
+        
+        this.setFont(font1);
         
         this.limit = limit = 1;
         setEditable(true);

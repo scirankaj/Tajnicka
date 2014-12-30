@@ -1,24 +1,15 @@
-auto
-mobil
-cieva
-podiel
-nemecko
-formular
-grafika
-nahoda
-prienik
-jahoda
-vektor
-paleta
-priemetna
-jedinec
-pozicia
-program
-vietor
-narysna
-stupen
-kuzel
-nazov
-axioma
-byl
-vyrez
+DDA algoritmus sa pouziva na  vygenerovanie coho?
+Jeden zo sposobov vytvarania grafickej informacie.
+Zakladny prvok rastrovej grafiky.
+Zakladny prvok rastrovej grafiky.
+Pocet riadkov a stlpcov pixelov v obrazku.
+Pokial priemety osi lezia na vyskach axonometr. Trojuholnika, ide o ake premietanie?
+Aku vlastnost nastavujeme pomocou funkcie glColor3f ?
+Aku vlastnost nastavujeme pomocou funkcie glRotatef ?
+Aditivny farebny model, ktoreho zakladom su 3 farby?
+Priemyselny multiplatformovy standard, ktory sa pouziva na tvorbu aplikacii PG ?
+Patri medzi zakladne geometricke transformacie (meni polohu objektu).
+Patri medzi zakladne geometricke transformacie (otaca objekt po kruhovej drahe).
+Patri medzi zakladne geometricke transformacie (sposobi deformaciu objektu).
+Ako nazyvame transformaciu zmeny mierky?
+Typ technickeho premietania, nazyva sa aj nazorny priemet.

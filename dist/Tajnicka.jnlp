@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Tajnicka.jnlp">
+  <information>
+    <title>Tajnicka</title>
+    <vendor>Jarko</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <jfx:javafx-runtime version="8.0+" href="http://javadl.sun.com/webapps/download/GetFile/javafx-latest/windows-i586/javafx2.jnlp"/>
+  </resources>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Tajnicka.jar" size="21309" download="eager" />
+  </resources>
+<security>
+  <all-permissions/>
+</security>
+  <application-desc main-class="Main"  name="Tajnicka" >
+  </application-desc>
+  <update check="always"/>
+</jnlp>
